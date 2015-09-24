@@ -1,0 +1,80 @@
+body {
+	background-color: #FAEBD7;
+	margin: 25px;
+}
+
+.chip_cookies img{
+	border-radius: 50px;
+	border: 2px solid #000000;
+	box-shadow: 10px 10px 5px #888888;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 737px;
+	height: 352px;
+}
+
+.chips img{
+	border-radius: 50px;
+	border: 2px solid #000000;
+	box-shadow: 10px 10px 5px #888888;
+	width: 250px;
+	height: 250px;
+}	
+
+.directions{
+	padding-left: 100px;
+}
+.directions_img img{
+	border-radius: 50px;
+	border: 2px solid #000000;
+	box-shadow: 10px 10px 5px #888888;
+	width: 700px; 
+    height: 326px; 
+}
+
+.dog{
+	width: 201px; 
+    height: 150px; 
+    overflow: hidden; 
+}
+.dog img{
+	 width: 100%;
+}
+
+h1{
+	text-align: center;
+	color: #A52A2A;
+	font-size: 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+a:hover{
+	color:#800000;
+	font-weight: bold;
+	text-decoration: none;
+	border-style: solid;
+}
+
+.highlighted {
+    -webkit-box-shadow: 0 0 15px #996633;
+    -moz-box-shadow: 0 0 15px #996633;
+    box-shadow: 0 0 15px #996633;
+    cursor:pointer;
+}
+
+#button{
+    display: inline-block;
+	background-color:#996633;
+	font-family:arial;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:px;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+}
